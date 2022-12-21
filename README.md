@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benmaaziz
-- 👀 I’m interested in programming in general ... I didn't find my desired domain yet :D
-- 🌱 I’m currently learning C programming
+- 👀 I’m teaching myself web development, I'm following `The Odin Project` course.
+- 🌱 I’m currently at the foundation course, learning the basis of HTML, CSS and JavaScript.
 - 📫 How to reach me : fb.com/benmaaziz20
 
 <!---
